@@ -1,0 +1,45 @@
+ORIGINAL HILMAS MEDIA SOURCES
+=============================
+
+These images are referenced from the existing public company site.
+They load inside this new website; award cards NEVER redirect visitors to the old site.
+Run python fetch_original_images.py with internet to copy images locally before deployment.
+
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/airc-award-173x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/ccc.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/ceo.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-1-714x1024.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-2-716x1024.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-3-710x1024.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-4-707x1024.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-5-718x1024.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-6.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-7-1024x722.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cert-8.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/cma-award-173x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/darling-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/dry-fruits-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/gmp-300x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/haccp-300x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/idb-award-173x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/idb.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/iso-300x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/koffee-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/moh.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/pop-chillove-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/pop-hilpop-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/tamarindo-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-coconut-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-cola-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-guava-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-koffee-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-milk-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-milo-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-mint-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/07/twister-tamarindo-1.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/09/award-4-173x300.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/09/cearsx.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/09/dryfruites.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/09/koffee.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2025/09/mixfruite.jpg
+https://www.hilmaslanka.lk/wp-content/uploads/2026/08/FruitSclentirChewyToffee.jpg
